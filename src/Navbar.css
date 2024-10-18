@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #333; /* Change to your preferred color */
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.navbar li {
+  display: inline; /* Horizontally align links */
+  margin-right: 20px; /* Space between links */
+}
+
+.navbar a {
+  color: rgb(30, 2, 2); /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
+.navbar a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
